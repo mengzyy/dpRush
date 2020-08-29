@@ -13,7 +13,7 @@ import sun.rmi.server.InactiveGroupException;
  *idea 使用三维状态，有时候想想递归就知道怎么写了
  * dp[][][] 二维：0:持有现金 1:持有股票 三维：0完成0股 1：完成1股 2：完成两股
  **/
-public class buySellStock3 {
+public class BuySellStock3 {
 
     public int maxProfit(int[] prices) {
 
